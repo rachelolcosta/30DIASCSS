@@ -7,7 +7,7 @@ Eaaai Devs, beleza? 👋🏾👊🏾
 
 ## ✔️ Regras gerais
 
-* Realizar 30 projetos (pessoalmente, não será por 30 dias seguidos)
+* Realizar 30 projetos (pessoalmente, não farei por 30 dias seguidos)
 * Compartilhe seu progresso nas mídias sociais (Twitter, Facebook, Linkedin etc.) usando a hashtag #30diasDeCSS
 * O projeto deve ser concluído até 23:59
 
@@ -18,3 +18,4 @@ Curtiu a ideia? [Clique aqui](https://github.com/MilenaCarecho/30diasDeCSS/issue
 
 ##  Desafio dia 01 - Loader CSS <a name="dia01"></a>
 ![Dia 01](https://github.com/igorsantos97/30DIASCSS/blob/master/desafios/dia01/loader-day01.gif);
+[Código github](https://bit.ly/2FGHlaT) | [Codepen](https://bit.ly/3mjalGB) | [Post LinkedIn](https://bit.ly/32xc8QJ)
