@@ -17,5 +17,6 @@ Curtiu a ideia? [Clique aqui](https://github.com/MilenaCarecho/30diasDeCSS/issue
 * [Dia 01 - Loader CSS](#dia01)
 
 ##  Desafio dia 01 - Loader CSS <a name="dia01"></a>
-![Dia 01](https://github.com/igorsantos97/30DIASCSS/blob/master/desafios/dia01/loader-day01.gif);
+![Dia 01](https://github.com/igorsantos97/30DIASCSS/blob/master/desafios/dia01/loader-day01.gif)
+
 [Código github](https://bit.ly/2FGHlaT) | [Codepen](https://bit.ly/3mjalGB) | [Post LinkedIn](https://bit.ly/32xc8QJ)
