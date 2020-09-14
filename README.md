@@ -16,5 +16,5 @@ Curtiu a ideia? [Clique aqui](https://github.com/MilenaCarecho/30diasDeCSS/issue
 ## 🎯 Lista dos Desafios
 * [Dia 01 - Loader CSS](#dia01)
 
-##  Desafio dia 01 - Ícone de mídia social em camadas <a name="dia01"></a>
+##  Desafio dia 01 - Loader CSS <a name="dia01"></a>
 ![Dia 01](https://github.com/igorsantos97/30DIASCSS/blob/master/desafios/dia01/loader-day01.gif);
